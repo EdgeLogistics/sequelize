@@ -1,5 +1,5 @@
 {
-  "name": "@edgelogistics/sequelize",
+  "name": "sequelize",
   "description": "Fork of sequelize to allow the indexHints key in the includes",
   "version": "5.22.4",
   "author": "Sascha Depold <sascha@depold.com>",
