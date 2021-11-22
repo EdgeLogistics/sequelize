@@ -1,7 +1,7 @@
 {
-  "name": "sequelize",
-  "description": "Multi dialect ORM for Node.JS",
-  "version": "0.0.0-development",
+  "name": "@edgelogistics/sequelize",
+  "description": "Fork of sequelize to allow the indexHints key in the includes",
+  "version": "5.22.4",
   "author": "Sascha Depold <sascha@depold.com>",
   "contributors": [
     "Sascha Depold <sascha@depold.com>",
@@ -12,12 +12,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sequelize/sequelize.git"
+    "url": "https://github.com/EdgeLogistics/sequelize.git"
   },
-  "bugs": {
-    "url": "https://github.com/sequelize/sequelize/issues"
-  },
-  "homepage": "https://sequelize.org/",
   "main": "index.js",
   "types": "types",
   "engines": {
