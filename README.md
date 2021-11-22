@@ -13,6 +13,8 @@
 [![License](https://badgen.net/github/license/sequelize/sequelize)](https://github.com/sequelize/sequelize/blob/master/LICENSE)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
+Forked repository of Sequelize in order to make it compatible with indexHints in the included joins, for more information see https://github.com/sequelize/sequelize/pull/11808
+
 Sequelize is a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server. It features solid transaction support, relations, eager and lazy loading, read replication and more.
 
 Sequelize follows [SEMVER](http://semver.org). Supports Node v6 and above to use ES6 features.
